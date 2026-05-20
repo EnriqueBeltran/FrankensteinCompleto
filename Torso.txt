@@ -1,1 +1,1 @@
-Torso normal
+Torso rígido 
